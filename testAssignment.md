@@ -65,8 +65,6 @@ Data <- read_tsv("/Users/helenretzlaff/Documents/Data 3/datan3_2020/data/UKDA-66
     ## See spec(...) for full column specifications.
 
 ``` r
-# You need to add between the quotation marks a full path to the required file on your computer.
-
 #the Data has 2821 observations and 216 variables
 ```
 

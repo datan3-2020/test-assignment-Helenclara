@@ -29,7 +29,6 @@ library(tidyverse)
 getwd()
 
 Data <- read_tsv("/Users/helenretzlaff/Documents/Data 3/datan3_2020/data/UKDA-6614-tab/tab/ukhls_w9/i_youth.tab")
-# You need to add between the quotation marks a full path to the required file on your computer.
 
 #the Data has 2821 observations and 216 variables
 ```
