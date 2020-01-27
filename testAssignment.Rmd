@@ -3,6 +3,8 @@ title: "Test statistical assignment"
 author: "Alexey Bessudnov"
 date: "22 January 2020"
 output: github_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
